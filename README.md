@@ -1,18 +1,12 @@
-<b><Hello World!/></b>
-#I am Wayter, a young developer in learning, always looking for more knowledge about new technologies. I love to play video games and have a barbecue with friends.
+<h1>Hello World!</h1>
+</br>
+<h3>I am Wayter, a young brazilian developer in learning, always looking for more knowledge about new technologies. I love to play video games and have a barbecue with friends.<h3>
+</br>
+<h3>Curiosities:</h3>
+</br>
+<p>ReactJs,React Native, Node.js, C#,Asp.Net, Spring Bot, Java, Mongo DB, SQL</p>
 
-#Brasileiro 
-<!--
-**wayter95/wayter95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Social networks:</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.instagram.com/wayter.paulo/">Instagran</a> 
+  <a href="https://www.linkedin.com/in/wayter-paulo-9217a9171/">Linkedin</a>
