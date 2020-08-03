@@ -1,5 +1,7 @@
-### Hi there 👋
+###<Hello World!/>
+#I am Wayter, a young developer in learning, always looking for more knowledge about new technologies. I love to play video games and have a barbecue with friends.
 
+#Brasileiro 
 <!--
 **wayter95/wayter95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
