@@ -8,5 +8,5 @@
 
 <h3>Social networks:</h3>
 
-  <a href="https://www.instagram.com/wayter.paulo/">Instagran</a> 
-  <a href="https://www.linkedin.com/in/wayter-paulo-9217a9171/">Linkedin</a>
+  <a href="https://www.instagram.com/wayter.paulo/" target="_blank">Instagran</a> 
+  <a href="https://www.linkedin.com/in/wayter-paulo-9217a9171/" target="_blank">Linkedin</a>
