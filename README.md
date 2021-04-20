@@ -1,10 +1,25 @@
 <h1 align='center'>Hello World, I'm Wayter Paulo</h1>
 </br>
-<h3align='center'>I am Wayter, a young brazilian developer in learning, always looking for more knowledge about new technologies. I love to play video games and have a barbecue with friends.<h3>
+<h3 align='center'>I am Wayter, a young brazilian developer in learning, always looking for more knowledge about new technologies. I love to play video games and have a barbecue with friends.<h3>
 </br>
-<h3>Curiosities:</h3>
+<h3>Skills:</h3>
 </br>
-<p>ReactJs,React Native, Node.js, C#,Asp.Net, Spring Bot, Java, Mongo DB, SQL</p>
+<ul>
+  <li>NodeJs</li>
+  <li>React</li>
+  <li>Java Script</li>
+  <li>Docker</li>
+  <li>Swagger</li>
+  <li>SQL</li>
+  <li>MongoDb</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Graphic designer</li>
+</ul>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wayter95&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <h3>Social networks:</h3>
 <p align='center'>
