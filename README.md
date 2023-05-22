@@ -8,12 +8,16 @@
   <li>NodeJs</li>
   <li>React</li>
   <li>Java Script</li>
+  <li>C#</li>
+  <li>.NET</li>
   <li>Docker</li>
   <li>Swagger</li>
+  <li>Kong</li>
+  <li>Apache Kafka</li>
+  <li>Rabit MQ</li>
+  <li>Jest / Supertest</li>
   <li>SQL</li>
-  <li>MongoDb</li>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>MongoDb</li>>
   <li>Graphic designer</li>
 </ul>
 
